@@ -1,6 +1,6 @@
 ### Hey, I'm Felype 👋
 
-🤓 Engenheiro de Software Sênior at PicPay<br />
+🤓 Senior Software Engineer at PicPay<br />
 🇧🇷 Living in Minas Gerais, Brazil  <br />
  
 
