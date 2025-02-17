@@ -1,14 +1,15 @@
 ### Hey, I'm Felype 👋
 
-🤓 FullStack Developer at Cibus CashBack<br />
+🤓 Engenheiro de Software Sênior at PicPay<br />
 🇧🇷 Living in Minas Gerais, Brazil  <br />
  
 
 ## I'm working with 👨‍💻
+- NodeJs
+- NestJS
+- TypeScript
 - React Native
 - React
-- TypeScript
-- NodeJs
 
 <div align="center">
   <a href="https://github.com/flyp-felype">
