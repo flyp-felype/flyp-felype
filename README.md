@@ -1,12 +1,13 @@
 ### Hey, I'm Felype 👋
 
-🤓 Senior Software Engineer at PicPay<br />
+🤓 Senior Software Engineer at Kanastra<br />
 🇧🇷 Living in Minas Gerais, Brazil  <br />
  
 
 ## I'm working with 👨‍💻
 - NodeJs
-- NestJS
+- Python
+- GO
 - TypeScript
 - React Native
 - React
